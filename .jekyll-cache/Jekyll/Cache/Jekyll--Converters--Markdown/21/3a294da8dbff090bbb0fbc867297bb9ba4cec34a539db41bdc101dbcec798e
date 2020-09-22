@@ -1,0 +1,6 @@
+I"^<p>This week we have started receiving parts for our race car build. The Nvidia Jetson TX2 is going to be our central computational unit on the car. This is a embedded device dedicated for AI computing, loaded with GPU power.
+<br /><br />
+We also got our LiDAR unit, Hokuyo UST-10LX. This device computes the distance to surrounding walls or objects by measuring the time of flight of laser sent out by the device. We will use this to map the environment that the car operates in. When the map is generated, this information is used for localization in the map.
+<br /><br />
+Easy peasy, lemon squeezy.</p>
+:ET
