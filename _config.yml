@@ -8,8 +8,7 @@
 # Site settings
 title: XF
 description: > # this means to ignore newlines until "baseurl:"
-        Blog is a pretty wierd word. Kinda like blob, which is a underrated
-        word in my opinion.
+        Terminator 2 > Terminator 1
 
 baseurl: "" # the subpath of your site, e.g. /blog
 
