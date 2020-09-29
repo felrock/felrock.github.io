@@ -6,9 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Lorem Ipsum
+title: XF
 description: > # this means to ignore newlines until "baseurl:"
-    Du du du du du du du du du du du du duuuu du, if you know this song please contact me. 
+        Blog is a pretty wierd word. Kinda like blob, which is a underrated
+        word in my opinion.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 
@@ -16,7 +17,3 @@ baseurl: "" # the subpath of your site, e.g. /blog
 markdown: kramdown
 
 fs_github: felrock
-fr_github: felixrosberg
-jj_github: jonajo15
-hl_github: anguse
-ao_github: laziosweden

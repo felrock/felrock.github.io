@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What does mine say? Sweet! What about mine? Dude! What does mine say!? Sweet! WHAT ABOUT MINE? DUUUUUDE!"
+title:  "<placeholder-post"
 date:   2020-09-22 14:00:00 +0100
 categories: update
 ---
