@@ -15,9 +15,3 @@ baseurl: "" # the subpath of your site, e.g. /blog
 markdown: kramdown
 
 fs_github: felrock
-
-base_font_family: "JetBrains Mono"
-
-brand-color: "#28b16d"
-text-color: "#3A4F66"
-
