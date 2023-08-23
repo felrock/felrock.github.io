@@ -11,8 +11,7 @@ The other day i was faced with an issue, working with generating A2L files to be
 XCP is a diagnostics protocol used to read/write to High Integrity machines in the automotive industry.
 A2l is a format of the memory to be available for read/write. Its generated from .cpp and .elf files.
 
-In the .cpp files comments are placed on each of the variables that the user would like to read/write
-to.
+In the .cpp files comments are placed on each of the variables that the user would like to read/write to.
 
 Now the issue I was facing is that a fault shown upon generating, which resulted in a seg-fault.
 
@@ -90,7 +89,7 @@ Using: clang version 10.0.0-4ubuntu1
     <ae>   DW_AT_count       : 500
 ```
 
-And there it is, the problem, compilers generate different elf output. Where the array tag
+And there it is, the problem, compilers generate different elf output. Where the array size tag
 is `DW_AT_upper_bound` with GCC and `DW_AT_count` with clang.
 
 [jekyll-docs]: http://jekyllrb.com/docs/home
