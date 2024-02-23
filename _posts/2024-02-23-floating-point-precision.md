@@ -5,8 +5,6 @@ date:   2024-02-23 12:00:00 +0100
 categories: script
 ---
 
-## Visualize precision with harmonic convergence
-
 This came about while I was looking at different implementations of half-precision(float16) in C++.
 Wonder, what's the difference between bfloat16 and half-precision floats? Why do they prefer to use
 bfloat16 in some ML projects?

@@ -5,8 +5,6 @@ date:   2023-08-23 12:00:00 +0100
 categories: script
 ---
 
-## Dwarfs and Elfs or was it Clang and Gcc
-
 The other day i was faced with an issue, working with generating A2L files to be used by [XCP](https://en.wikipedia.org/wiki/XCP_(protocol)). Where
 XCP is a diagnostics protocol used to read/write to High Integrity machines in the automotive industry.
 A2l is a format of the memory to be available for read/write. Its generated from .cpp and .elf files.
